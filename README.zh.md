@@ -90,3 +90,12 @@
 ## 致谢
 
 我们相信每个人都值得拥有一份好简历。
+
+## 相关项目
+
+| 项目 | 说明 |
+|------|------|
+| [**awesome-portfolio-skills**](https://github.com/liangzhengtao/awesome-portfolio-skills) | 12 个个人网页制作 skill |
+| [**awesome-interview-skills**](https://github.com/liangzhengtao/awesome-interview-skills) | 14 个面试准备技能 |
+| [**awesome-skills**](https://github.com/liangzhengtao/awesome-skills) | 12 个科研 AI 技能 |
+| [**awesome-writing-skills**](https://github.com/liangzhengtao/awesome-writing-skills) | 12 个写作技能 |

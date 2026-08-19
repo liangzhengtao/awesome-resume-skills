@@ -79,6 +79,15 @@ Maximize your chances with ATS, cover letters, and LinkedIn.
 5. **Study the examples** — Compare before/after to refine your content
 6. **Check common mistakes** — Avoid the pitfalls others fall into
 
+## See Also
+
+| Project | Description |
+|---------|-------------|
+| [**awesome-portfolio-skills**](https://github.com/liangzhengtao/awesome-portfolio-skills) | 12 skills for building personal portfolio websites |
+| [**awesome-interview-skills**](https://github.com/liangzhengtao/awesome-interview-skills) | 14 skills to land your dream job |
+| [**awesome-skills**](https://github.com/liangzhengtao/awesome-skills) | 12 research AI skills |
+| [**awesome-writing-skills**](https://github.com/liangzhengtao/awesome-writing-skills) | 12 writing skills for bloggers and professionals |
+
 ## Contributing
 
 We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
