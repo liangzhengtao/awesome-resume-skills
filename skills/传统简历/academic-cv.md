@@ -1,6 +1,6 @@
 # Academic CV Skill
 
-> Comprehensive CV for researchers, professors, postdocs, and PhD candidates.
+> Complete CV for researchers, professors, postdocs, and PhD candidates.
 
 ## When to Use
 
@@ -28,7 +28,7 @@
 
 ### Length
 
-No page limit. CV should be comprehensive.
+No page limit. CV should be complete.
 - PhD student / Postdoc: 3-6 pages
 - Assistant Professor: 6-12 pages
 - Associate/Full Professor: 10-25+ pages

@@ -37,7 +37,7 @@ Clean, proven formats for corporate and institutional roles.
 | Skill | Description | Use When |
 |-------|-------------|----------|
 | [Professional Resume](skills/传统简历/professional-resume.md) | ATS-friendly corporate resume | Finance, consulting, corporate roles |
-| [Academic CV](skills/传统简历/academic-cv.md) | Comprehensive academic CV | Faculty, postdoc, research positions |
+| [Academic CV](skills/传统简历/academic-cv.md) | Complete academic CV | Faculty, postdoc, research positions |
 | [Federal Resume](skills/传统简历/federal-resume.md) | Extended government resume | USAJobs, federal, state government |
 
 ### 🎨 创意简历 (Creative Resumes)

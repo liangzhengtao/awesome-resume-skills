@@ -10,7 +10,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 #### 传统简历 (Traditional Resumes)
 - **Professional Resume** — ATS-friendly corporate resume with corporate, consulting, and finance templates
-- **Academic CV** — Comprehensive CV for researchers and professors with APA/IEEE formatting
+- **Academic CV** — Complete CV for researchers and professors with APA/IEEE formatting
 - **Federal Resume** — Extended government resume with KSA templates and USAJobs format
 
 #### 创意简历 (Creative Resumes)

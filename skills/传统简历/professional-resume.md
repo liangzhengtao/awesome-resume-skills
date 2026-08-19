@@ -46,7 +46,7 @@
 PROFESSIONAL SUMMARY
 Results-driven [title] with [X] years of experience in [industry].
 Proven track record of [key achievement 1] and [key achievement 2].
-Seeking to leverage [specific skill] to drive [company goal].
+Seeking to use [specific skill] to drive [company goal].
 
 PROFESSIONAL EXPERIENCE
 

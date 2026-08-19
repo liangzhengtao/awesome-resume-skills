@@ -146,7 +146,7 @@ settings. While serving as [Title] at [Agency] from [Date] to [Date]:
 
 SITUATION: The agency needed to analyze [X] records to identify [issue].
 
-TASK: I was responsible for developing a comprehensive analysis framework to
+TASK: I was responsible for developing a complete analysis framework to
 process and visualize [data type] for senior leadership decision-making.
 
 ACTION: I utilized [specific tools — Python, Tableau, SQL] to:

@@ -210,7 +210,7 @@ Cloud Strategy:
   reserved capacity planning, rightsizing, and waste elimination.
 
 Team & Process:
-• Mentored [X] engineers on cloud-native best practices.
+• Mentored [X] engineers on cloud-native proven patterns.
 • Established Architecture Review Board, evaluating [X] design
   proposals per quarter.
 • Created internal cloud training program adopted by [X] teams.

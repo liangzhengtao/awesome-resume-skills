@@ -203,7 +203,7 @@ PUBLICATIONS & PATENTS (if applicable)
   rate and 45-minute SLA, replacing manual SQL queries that took 6+ hours.
 ```
 
-### Dataset Description Best Practices
+### Dataset Description Proven Patterns
 
 ```
 ✓ GOOD: "3.2M user records, 147 features spanning 18 months of behavioral,
